@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4659780336",
+    "project_id": "forecastweather-dcedb",
+    "storage_bucket": "forecastweather-dcedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4659780336:android:e577ab3b436ef2a1904035",
+        "android_client_info": {
+          "package_name": "app.forecastweather.search"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c4EgAv6wbVzuci0C9fwtfZoqPVdJQQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

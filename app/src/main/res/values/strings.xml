@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Forecast Weather Search</string>
+    <string name="meassure_value">°C</string>
+    <string name="forecast_title">Forecast for 3 days</string>
+    <string name="min_title">MIN: </string>
+    <string name="max_title">MAX: </string>
+    <string name="city_type">Type city to get weather!</string>
+    <string name="search_type">Get weather</string>
+    <string name="shown_last">There will be shown last checked city!</string>
+    <string name="about_us">About us</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share">Share</string>
+    <string name="privacy">Privacy policy</string>
+</resources>
